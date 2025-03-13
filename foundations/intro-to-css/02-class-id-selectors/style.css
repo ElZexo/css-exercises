@@ -1,0 +1,19 @@
+.bartucci {
+  background-color: rgb(255, 143, 177);
+  font-family: 'Verdana', 'DejaVu Sans', 'sans-serif'
+}
+
+.bartucci.montesi {
+  font-size: 24px;
+}
+
+#benson {
+  color: blue;
+  font-size: 36px;
+}
+
+#simone {
+  background-color: rgb(146, 253, 114);
+  font-size: 24px;
+  font-weight: bold;
+}
